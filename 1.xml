@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<shop>
+		<name>Оптовый поставщик премиум-брендов</name>
+		<company>Оптовый поставщик</company>
+		<url>https://ya.ru</url>
+		<currencies>
+			<currency id="RUB" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="1093">Куклы</category>
+			<category id="1094">Матрешки</category>
+			<category id="1103">Кубики</category>
+			<category id="1109">Сувениры</category>
+			<category id="1113">Пирамидки</category>
+			<category id="1114">Разное</category>
+
+		</categories>
+		<offers>
+			<offer id="114400" available="true">
+				<url></url>
+				<price>28590.00</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1093</categoryId>
+				<delivery>true</delivery>
+				<name>Кукла неваляшка</name>
+				<priceRetail>28599.00</priceRetail>
+				<vendor>DreamDoll</vendor>
+				<picture>https://via.placeholder.com/800x600</picture>
+				<pictures>
+					<picture></picture>
+					<picture></picture>
+				</pictures>
+				<barcode>2000079653013</barcode>
+				<description>Аксиома силлогизма, по определению, представляет собой неоднозначный предмет деятельности. Аксиома силлогизма, по определению, представляет собой неоднозначный предмет деятельности. Интеллект естественно понимает под собой интеллигибельный закон внешнего мира, открывая новые горизонты.</description>
+				<adult>true</adult>
+				<sizes>
+					<size id="147535" name="" article="mdoll4" barcode="2000079653013" color="Коричневый" quantity="5" ownStock="1"></size>
+				</sizes>
+			</offer>
+			<offer id="114403" available="true">
+			<!-- Пример простого товара -->
+				<url></url>
+				<price>524999.00</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1093</categoryId>
+				<delivery>true</delivery>
+				<name>Кукла Лилу</name>
+				<priceRetail>524999.00</priceRetail>
+				<vendor>DreamDoll</vendor>
+				<picture>https://via.placeholder.com/800x600</picture>
+				<pictures>
+					<picture>https://via.placeholder.com/800x600</picture>
+					<picture>https://via.placeholder.com/800x600</picture>
+					<picture>https://via.placeholder.com/800x600</picture>					
+				</pictures>
+				<quantity>2</quantity>
+				<article>mdoll3</article>
+				<barcode>2000085371017</barcode>
+				<ownStock>1</ownStock>
+				<description>Аксиома силлогизма, по определению, представляет собой неоднозначный предмет деятельности. Аксиома силлогизма, по определению, представляет собой неоднозначный предмет деятельности. Интеллект естественно понимает под собой интеллигибельный закон внешнего мира, открывая новые горизонты.</description>
+				<adult>true</adult>
+				<sizes></sizes>
+			</offer>
+			<offer id="283495" available="true">
+			<!-- Пример вариативного товара -->
+				<url></url>
+				<price>1814.00</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1175</categoryId>
+				<delivery>true</delivery>
+				<name>Костюм для куклы</name>
+				<priceRetail>2459.00</priceRetail>
+				<vendor>Le Frivole costumes</vendor>
+				<picture>https://via.placeholder.com/800x600</picture>
+				<barcode>4680591022061</barcode>
+				<description>Аксиома силлогизма, по определению, представляет собой неоднозначный предмет деятельности. Аксиома силлогизма, по определению, представляет собой неоднозначный предмет деятельности. Интеллект естественно понимает под собой интеллигибельный закон внешнего мира, открывая новые горизонты.</description>
+				<adult>true</adult>
+				<sizes>
+					<size id="283673" name="S/M" article="COS02206S/M" barcode="4680591022061" color="" quantity="146" ownStock="0"></size>
+					<size id="283674" name="M/L" article="COS02206M/L" barcode="4680592022060" color="" quantity="84" ownStock="0"></size>
+					<size id="283675" name="L/XL" article="COS02206L/XL" barcode="4680593022069" color="" quantity="13" ownStock="0"></size>
+				</sizes>
+			</offer>
+
+			<offer id="284791" available="true">
+			<!-- Пример простого товара -->
+				<url></url>
+				<price>545999.00</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1093</categoryId>
+				<delivery>true</delivery>
+				<name>Супер-релистичная кукла Тая</name>
+				<priceRetail>545999.00</priceRetail>
+				<vendor>DreamDoll</vendor>
+				<picture>https://via.placeholder.com/800x600</picture>
+				<pictures>
+					<picture>https://via.placeholder.com/800x600</picture>
+					<picture>https://via.placeholder.com/800x600</picture>
+				</pictures>
+				<quantity>2</quantity>
+				<article>mdoll11</article>
+				<barcode>2000090566019</barcode>
+				<ownStock>1</ownStock>
+				<description>Аксиома силлогизма, по определению, представляет собой неоднозначный предмет деятельности. Аксиома силлогизма, по определению, представляет собой неоднозначный предмет деятельности. Интеллект естественно понимает под собой интеллигибельный закон внешнего мира, открывая новые горизонты.&amp;nbsp;&amp;nbsp;</description>
+				<adult>true</adult>
+				<sizes></sizes>
+			</offer>
+			<offer id="701488" available="true">
+			<!-- Пример Вариативного товара -->
+				<url></url>
+				<price>1737.00</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1166</categoryId>
+				<delivery>true</delivery>
+				<name>Конфетки 120 гр</name>
+				<priceRetail>2359.00</priceRetail>
+				<vendor>Vendor</vendor>
+				<picture>https://via.placeholder.com/800x600</picture>
+				<pictures>
+					<picture>https://via.placeholder.com/800x600</picture>
+					<picture>https://via.placeholder.com/800x600</picture>
+				</pictures>
+				<barcode>713079903843</barcode>
+				<description>Аксиома силлогизма, по определению, представляет собой неоднозначный предмет деятельности. Аксиома силлогизма, по определению, представляет собой неоднозначный предмет деятельности. Интеллект естественно понимает под собой интеллигибельный закон внешнего мира, открывая новые горизонты.</description>
+				<adult>true</adult>
+				<sizes>
+					<size id="701528" name="" article="P5S_79903447" barcode="713079903447" color="Синнабон" quantity="8" ownStock="0"></size>
+					<size id="701531" name="" article="P5S_79903041" barcode="713079903041" color="Гранат" quantity="8" ownStock="0"></size>
+					<size id="701511" name="" article="EF903843" barcode="713079903843" color="Персик" quantity="10" ownStock="0"></size>
+					<size id="701533" name="" article="P5S_79903249" barcode="713079903249" color="Соленая карамель" quantity="4" ownStock="0"></size>
+					<size id="701535" name="" article="P5S_79904048" barcode="713079904048" color="Яблоко" quantity="8" ownStock="0"></size>
+					<size id="701525" name="" article="P5S_79903546" barcode="713079903546" color="Вишнёвый ликёр" quantity="8" ownStock="0"></size>
+					<size id="701512" name="" article="EF904345" barcode="713079904345" color="Вишня" quantity="8" ownStock="0"></size>
+					<size id="701519" name="" article="EF903348" barcode="713079903348" color="Ваниль" quantity="6" ownStock="0"></size>
+					<size id="701515" name="" article="EF903744" barcode="713079903744" color="Розовый лимонад" quantity="8" ownStock="0"></size>
+					<size id="701513" name="" article="EF904246" barcode="713079904246" color="Арбуз" quantity="8" ownStock="0"></size>
+					<size id="701522" name="" article="P5S_79903140" barcode="713079903140" color="Кофе Мокка" quantity="8" ownStock="0"></size>
+				</sizes>
+			</offer>
+			<offer id="701558" available="true">
+			<!-- Пример простого товара -->
+				<url></url>
+				<price>480.00</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1555</categoryId>
+				<delivery>true</delivery>
+				<name>Кукла игрушка</name>
+				<priceRetail>799.00</priceRetail>
+				<vendor>XR Brands</vendor>
+				<picture>https://via.placeholder.com/800x600</picture>
+				<quantity>1</quantity>
+				<article>XRPL100-2oz</article>
+				<barcode>811847011520</barcode>
+				<ownStock>1</ownStock>
+				<description>Аксиома силлогизма, по определению, представляет собой неоднозначный предмет деятельности. Аксиома силлогизма, по определению, представляет собой неоднозначный предмет деятельности. Интеллект естественно понимает под собой интеллигибельный закон внешнего мира, открывая новые горизонты.</description>
+				<adult>true</adult>
+				<sizes></sizes>
+			</offer>
+		</offers>
+	</shop>
